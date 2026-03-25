@@ -11,3 +11,4 @@ The datasets are from [https://github.com/MacAskillLab/Wee_2020_TRIO](https://gi
 The source code for View_interactive_3D_plots.ipynb is from [https://github.com/OpenNeuroAI/ExampleNeuroDatasets/blob/main/BiasedConnectivityVentralSubiculum/ideas.py](https://github.com/OpenNeuroAI/ExampleNeuroDatasets/blob/main/BiasedConnectivityVentralSubiculum/ideas.py)
 
 ## Jupyter notebook
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://hub.gesis.mybinder.org/user/zuhequan-reprod-ntral-subiculum-c853picx/lab)
